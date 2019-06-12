@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Chenyao Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ohio State University
+  url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include formal demography and social stratification.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fertility 
+- Mortality
+
 
 education:
   courses:
