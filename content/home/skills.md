@@ -27,19 +27,19 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "fa-language"
+  icon = "language"
   icon_pack = "fas"
   name = "Chinese"
   description = ""
 
 [[feature]]
-  icon = "fa-file"
+  icon = "file"
   icon_pack = "fas"
   name = "Latex"
   description = ""
 
 [[feature]]
-  icon = "fa-microsoft"
+  icon = "microsoft"
   icon_pack = "fab"
   name = "MS Office"
   description = ""
