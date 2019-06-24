@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Chenyao Zhang is a graduate student at the Ohio State University. Her research interests include 
+Chenyao Zhang is a graduate student at the Ohio State University. She is also a graduate affiliate for Institute for Population Research (IPR). Her research interests include demographic topics such as fertility and mortality, as well as social stratification. She is originally from Beijing, China.
