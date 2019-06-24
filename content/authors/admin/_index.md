@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include formal demography and social stratification.
 interests:
-- Fertility
-- Mortality
-- Stratification
+- Fertility preference
+- U5MR
+- Relative deprivation 
 
 
 education:
@@ -30,7 +30,7 @@ education:
   - course: PhD in Sociology
     institution: Ohio State University 
     year: Ongoing
-  - course: BA in Sociology and Maths 
+  - course: dual BA in Sociology and Mathmatics
     institution: Franklin and Marshall College
     year: 2015
 
