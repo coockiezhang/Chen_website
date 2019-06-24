@@ -30,7 +30,10 @@ education:
   - course: PhD in Sociology
     institution: Ohio State University 
     year: Ongoing
-  - course: dual BA in Sociology and Mathmatics
+  - course: BA in Sociology 
+    institution: Franklin and Marshall College
+    year: 2015
+  - course: BA in Mathematics
     institution: Franklin and Marshall College
     year: 2015
 
