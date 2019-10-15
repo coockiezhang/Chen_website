@@ -44,22 +44,6 @@ date_format = "Jan 2006"
   date_end = "2018-10-01"
   description = """Using PISA 2015 data and multilevel mode to examine the relationship between the family socioeconomic status, school socioeconomic composition, and teenagers’ selfperception of academic competence.
   """
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Trends in the Desire to Avoid Pregnancy"
-  company_url = ""
-  location = ""
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Data cleaning
-  * Data archive maintaining
-  * Data analysis
-  * Data & result visualization
-  * Manuscript preparation
-  """
 
  [[experience]]
   title = "Student Researcher"
