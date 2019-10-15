@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
@@ -72,18 +72,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
-  location = "Columbus, OH"
-  date_start = "2018-09-01"
-  Responsibilities include:
-  
-  * Data cleaning
-  * Data archive maintaining
-  * Data analyzing
-  * Result Visualization
-  * Manuscript preparation
+
 
 +++
 

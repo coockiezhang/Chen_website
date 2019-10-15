@@ -19,6 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
  [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
+  location = "Columbus, OH"
+  date_start = "2018-09-01"
+  date_end = "present"
+  Responsibilities include:
+  
+  * Data cleaning
+  * Data archive maintaining
+  * Data analyzing
+  * Result Visualization
+  * Manuscript preparation
+
+ [[experience]]
   title = "Student Researcher"
   company = "Amandla Edu Football"
   company_url = "https://www.safe-hub.org/en/welcome/"
