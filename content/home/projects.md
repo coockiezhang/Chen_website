@@ -41,7 +41,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -73,7 +73,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
- [[projects]]
+[[experience]]
   title = "Graduate Research Assistant"
   company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
   company_url = ""
