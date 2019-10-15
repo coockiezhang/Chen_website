@@ -72,6 +72,19 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+ [[projects]]
+  title = "Graduate Research Assistant"
+  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
+  location = "Columbus, OH"
+  date_start = "2018-09-01"
+  date_end = ""
+  Responsibilities include:
+  
+  * Data cleaning
+  * Data archive maintaining
+  * Data analyzing
+  * Result Visualization
+  * Manuscript preparation
 
 +++
 
