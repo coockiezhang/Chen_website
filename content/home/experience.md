@@ -17,17 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
- [[experience]]
-  title = "Student Researcher"
-  company = "Amandla Edu Football"
-  company_url = "https://www.safe-hub.org/en/welcome/"
-  location = "Cape Town, South Africa"
-  date_start = "2015-06-01"
-  date_end = "2015-07-01"
-  description = """Collaborated with Amandla Edu Football at the Chris Campbell Memorial Facility in Khayelitsha, Cape Town, to carry out research about post-apartheid living conditions of the poor black population."""
-
 [[experience]]
+  title = "Graduate Research Assistant"
+  company = "Family Migration Context and Early Life Outcomes"
+  company_url = "https://iussp.confex.com/iussp/ipc2017/meetingapp.cgi/Paper/3376"
+  location = ""
+  date_start = "2018-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data cleaning
+  * Data analysis
+  * Manuscript preparation
+  """
+  [[experience]]
   title = "Research Assitant"
   company = "Muslim Refugee Association of South Africa"
   company_url = "http://www.mrasa.org.za/"
@@ -41,6 +45,17 @@ date_format = "Jan 2006"
   * Using secondary data analysis to elucidate effective approaches to reduce xenophobia in South Africa;
   * Gathering data from local communities to find out more reliable statistics of the illegal Muslim refugees in Cape Town.
   """
+ [[experience]]
+  title = "Student Researcher"
+  company = "Amandla Edu Football"
+  company_url = "https://www.safe-hub.org/en/welcome/"
+  location = "Cape Town, South Africa"
+  date_start = "2015-06-01"
+  date_end = "2015-07-01"
+  description = """Collaborated with Amandla Edu Football at the Chris Campbell Memorial Facility in Khayelitsha, Cape Town, to carry out research about post-apartheid living conditions of the poor black population."""
+   """
+
+
 
 
 +++
