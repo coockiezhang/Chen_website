@@ -80,7 +80,7 @@ subtitle = ""
   location = "Columbus, OH"
   date_start = "2018-09-01"
   date_end = "present"
-  description = """
+  description = ""
   Responsibilities include:
   
   * Data cleaning
