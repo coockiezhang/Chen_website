@@ -21,13 +21,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
- # [[content.filter_button]]
- #   name = "All"
- #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
   
- # [[content.filter_button]]
- #  name = "Deep Learning"
- #  tag = "Deep Learning"
+ [[content.filter_button]]
+   name = "Deep Learning"
+   tag = "Deep Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -41,7 +41,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -72,22 +72,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
-  company_url = ""
-  location = "Columbus, OH"
-  date_start = "2018-09-01"
-  date_end = "present"
-  description = ""
-  Responsibilities include:
-  
-  * Data cleaning
-  * Data archive maintaining
-  * Data analyzing
-  * Result Visualization
-  * Manuscript preparation
-
 +++
 
