@@ -21,9 +21,10 @@ date_format = "Jan 2006"
  [[experience]]
   title = "Graduate Research Assistant"
   company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
-  location = "Columbus, OH"
+  location = ""
   date_start = "2018-09-01"
-  date_end = "present"
+  date_end = ""
+  description = """
   Responsibilities include:
   
   * Data cleaning
