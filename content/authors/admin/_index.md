@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include demography, especially fertility preferences, demographic changes in the developing world and the cause and consequences of such changes. I am also deeply intrigued by the area of social stratification.
 interests:
-- Fertility preference
+- Fertility Preference
 - U5MR
-- Relative deprivation 
+- Relative Deprivation 
 
 
 education:
