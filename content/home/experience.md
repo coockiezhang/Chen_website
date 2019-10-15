@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Data analysis
   * Manuscript preparation
   """
+
   [[experience]]
   title = "Research Assitant"
   company = "Muslim Refugee Association of South Africa"
@@ -45,17 +46,16 @@ date_format = "Jan 2006"
   * Using secondary data analysis to elucidate effective approaches to reduce xenophobia in South Africa;
   * Gathering data from local communities to find out more reliable statistics of the illegal Muslim refugees in Cape Town.
   """
+
  [[experience]]
   title = "Student Researcher"
-  company = "Amandla Edu Football"
+  company = "Amandla EduFootball"
   company_url = "https://www.safe-hub.org/en/welcome/"
   location = "Cape Town, South Africa"
   date_start = "2015-06-01"
   date_end = "2015-07-01"
   description = """Collaborated with Amandla Edu Football at the Chris Campbell Memorial Facility in Khayelitsha, Cape Town, to carry out research about post-apartheid living conditions of the poor black population."""
    """
-
-
 
 
 +++
