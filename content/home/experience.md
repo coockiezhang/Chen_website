@@ -21,7 +21,7 @@ date_format = "Jan 2006"
  [[experience]]
   title = "Student Researcher"
   company = "Amandla Edu Football"
-  company_url = ""
+  company_url = "https://www.safe-hub.org/en/welcome/"
   location = "Cape Town, South Africa"
   date_start = "2015-06-01"
   date_end = "2015-07-01"
