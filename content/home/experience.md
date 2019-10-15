@@ -18,20 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
- [[experience]]
-  title = "Graduate Research Assistant"
-  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
-  location = ""
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Data cleaning
-  * Data archive maintaining
-  * Data analyzing
-  * Result Visualization
-  * Manuscript preparation
+
 
  [[experience]]
   title = "Student Researcher"
@@ -41,7 +28,7 @@ date_format = "Jan 2006"
   date_start = "2015-06-01"
   date_end = "2015-07-01"
   description = """Collaborated with Amandla Edu Football at the Chris Campbell Memorial Facility in Khayelitsha, Cape Town, to carry out research about post-apartheid living conditions of the poor black population."""
-
+  """
 [[experience]]
   title = "Research Assitant"
   company = "Muslim Refugee Association of South Africa"
