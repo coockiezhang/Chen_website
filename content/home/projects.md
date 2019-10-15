@@ -21,21 +21,7 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[experience]]
-  title = "Graduate Research Assistant"
-  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
-  company_url = ""
-  location = "Columbus, OH"
-  date_start = "2018-09-01"
-  date_end = "present"
-  description = ""
-  Responsibilities include:
-  
-  * Data cleaning
-  * Data archive maintaining
-  * Data analyzing
-  * Result Visualization
-  * Manuscript preparation
+
   
   [[content.filter_button]]
     name = "All"
@@ -85,5 +71,20 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+ [[projects]]
+  title = "Graduate Research Assistant"
+  company = "Demand for Modern Contraception in sub-Saharan Africa: New Methods, New Evidence"
+  location = "Columbus, OH"
+  date_start = "2018-09-01"
+  date_end = "present"
+  Responsibilities include:
+  
+  * Data cleaning
+  * Data archive maintaining
+  * Data analyzing
+  * Result Visualization
+  * Manuscript preparation
+
 +++
 
