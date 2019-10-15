@@ -17,20 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Family Migration Context and Early Life Outcomes"
-  company_url = "https://iussp.confex.com/iussp/ipc2017/meetingapp.cgi/Paper/3376"
-  location = ""
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Data cleaning
-  * Data analysis
-  * Manuscript preparation
-  """
+
 
   [[experience]]
   title = "Research Assitant"
