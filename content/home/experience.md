@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_start = "2015-06-01"
   date_end = "2015-07-01"
   description = """Collaborated with Amandla Edu Football at the Chris Campbell Memorial Facility in Khayelitsha, Cape Town, to carry out research about post-apartheid living conditions of the poor black population."""
-  """
+
 [[experience]]
   title = "Research Assitant"
   company = "Muslim Refugee Association of South Africa"
