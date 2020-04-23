@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Sociology
+  - course: MA in Sociology
     institution: Ohio State University 
-    year: Ongoing
+    year: 2019
   - course: BA in Sociology 
     institution: Franklin and Marshall College
     year: 2015
