@@ -24,7 +24,6 @@ interests:
 - U5MR
 - Relative Deprivation 
 
-
 education:
 courses:
 - course: PhD in Sociology
