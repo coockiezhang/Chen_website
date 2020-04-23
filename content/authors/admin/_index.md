@@ -24,20 +24,18 @@ interests:
 - U5MR
 - Relative Deprivation 
 
+
 education:
-courses:
-- course: PhD in Sociology
- institution: Ohio State University 
- year: Ongoing
-- course: MA in Sociology
- institution: Ohio State University 
- year: 2019
-- course: BA in Sociology 
- institution: Franklin and Marshall College
- year: 2015
-- course: BA in Mathematics
- institution: Franklin and Marshall College
- year: 2015
+  courses:
+  - course: PhD in Sociology
+    institution: Ohio State University 
+    year: Ongoing
+  - course: BA in Sociology 
+    institution: Franklin and Marshall College
+    year: 2015
+  - course: BA in Mathematics
+    institution: Franklin and Marshall College
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
