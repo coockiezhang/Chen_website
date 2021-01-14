@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ organizations:
   url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include demography, especially fertility preferences, demographic changes in the developing world and the cause and consequences of such changes. I am also deeply intrigued by the area of social stratification.
+bio: My research focuses on understanding the potential causes and consequences of fertility and fertility preferences changes associated with economic stratification and political climate in China. 
 interests:
 - Fertility Preference
-- U5MR
-- Relative Deprivation 
+- Relative Deprivation
+- Economic Stratification and Housing 
 
 
 education:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Chenyao Zhang is a graduate student at the Ohio State University. She is also a graduate affiliate for Institute for Population Research (IPR). Her research interests include demographic topics such as fertility and mortality, as well as social stratification. She is originally from Beijing, China.
+Chenyao Zhang is a PhD Candidate at the Ohio State University. She is also a graduate affiliate for Institute for Population Research (IPR). Her research interests include demographic topics such as fertility and fertility preferences, as well as social stratification. She is originally from Beijing, China.
